@@ -1,0 +1,3 @@
+如果git已經開啟專案的話
+在本地端要git push - u origin master前，先git pull -r origin master
+目的在同步git端與本地端commit版本一致，才可以push。
