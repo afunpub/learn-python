@@ -1,3 +1,8 @@
+#! python3
+"""princess connect assistant
+afunpub@gmail.com
+I learn to develop the princess connect assistant with python language.It's unfinished
+"""
 import keyboard, pyautogui, time, logging, os
 
 width, height = pyautogui.size()
